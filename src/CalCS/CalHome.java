@@ -17,10 +17,11 @@ public class CalHome extends javax.swing.JFrame {
     int yMouse;
     double num1, num2;
     String op = "";
+    int s;
 
     public CalHome() {
         initComponents();
-
+//tejksdsad
     }
 
     @SuppressWarnings("unchecked")
